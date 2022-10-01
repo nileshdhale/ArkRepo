@@ -11,7 +11,7 @@ public class FirstTestCase {
 		WebDriver  driver= new ChromeDriver();
 		driver.get("https://dev2-app.simplicapital.ai/actuals/receivables");
 		driver.manage().window().maximize();
-		System.out.println("Test cases passed");
+		System.out.println("Amrutas Test cases passed");
 	}
 	
 	
